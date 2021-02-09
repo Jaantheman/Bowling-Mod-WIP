@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "bowling",
+  "version": "${version}",
+
+  "name": "Bowling Mod",
+  "description": "Experience the bowling alley Right At Your Home!",
+  "authors": [
+    "Jayden"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "cc0-1.0",
+  "icon": "assets/bowling/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.jayden.bowlingmod.bowlingmod"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.17.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
