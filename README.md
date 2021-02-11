@@ -13,3 +13,8 @@ You need fabric in order to run the mods. Here is the link https://fabricmc.net/
 # Known Issues
 
 Silver block does not have a name nor texture
+
+#UPDATE
+
+The Mod will now use 1.12 forge instead of 1.17 fabric
+Sorry.
