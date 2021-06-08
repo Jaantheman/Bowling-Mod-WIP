@@ -1,6 +1,6 @@
 # Bowling-Mod-WIP
 
-A mod That I am working on for minecraft snapshot 21w05b
+A mod That I am working on for minecraft snapshot 21w05b(I migth update the mod later)
 
 # Fabric API
 
